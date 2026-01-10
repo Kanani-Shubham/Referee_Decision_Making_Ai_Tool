@@ -1,0 +1,5 @@
+{
+  "name": "The Referee",
+  "description": "AI-powered decision comparison engine that helps you analyze trade-offs, compare options objectively, and decide with confidence using Google Gemini.",
+  "requestFramePermissions": []
+}
